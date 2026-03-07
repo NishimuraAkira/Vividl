@@ -9,7 +9,7 @@ using Bluegrams.Application.Attributes;
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("Bluegrams")]
 [assembly: AssemblyProduct("Vividl")]
-[assembly: AssemblyCopyright("Copyright © 2020-2025 Bluegrams")]
+[assembly: AssemblyCopyright("Copyright © 2020-2026 Bluegrams")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
 

@@ -1638,7 +1638,7 @@ namespace Vividl.Properties {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to A new version of {2} is available! The latest version is {0}. You have {1}..
+        ///   Looks up a localized string similar to A new version of {2} is available! The latest version is {0}. You have {1}. Install?.
         /// </summary>
         public static string YtdlUpdateService_NewUpdateMessage {
             get {
