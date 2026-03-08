@@ -2,7 +2,7 @@
 
 ### v.0.10.0 (2026-03)
 - **New:** Add update service for FFmpeg
-- **New:** Package and configure JS runtime (required for YouTube downloads)
+- **New:** Package and allow configuruation of JS runtime (now required for YouTube downloads)
 - **Fixed:** Apply format selection for audio downloads (MP3/M4A)
 
 ### v.0.9.0 (2025-06)
